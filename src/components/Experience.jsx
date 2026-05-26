@@ -6,7 +6,7 @@ function Experience() {
       id="experience"
       className=" px-6 md:px-12 py-10 text-white"
     >
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-6xl mx-auto">
 
         <motion.h2
           className="text-4xl md:text-5xl font-bold mb-16"

@@ -27,7 +27,7 @@ function Hero() {
           Building scalable backend systems and modern web applications.
         </p>
 
-        <div className="mt-8 flex flex-col sm:flex-row gap-4">
+        <div className="mt-8 flex gap-4 m:flex-row gap-4">
 
           <a
             href="#contact"
