@@ -5,11 +5,15 @@ function Skills() {
   const skills = [
     "Python",
     "Django",
+    "Flask",
+    "PHP",
+    "Laravel",
     "React",
     "JavaScript",
     "Tailwind CSS",
     "QGIS",
     "Git",
+    "MySQL",
     "PostgreSQL",
   ];
 

@@ -2,7 +2,11 @@ import { motion } from "framer-motion";
 
 function Hero() {
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center">
+    <section id="home" className="min-h-screen
+              flex items-center justify-center
+              px-6 md:px-12
+            "
+          >
 
       <motion.div
         className="max-w-4xl"
@@ -10,12 +14,12 @@ function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        <h1 className="text-6xl font-bold leading-tight">
+        <h1 className="text-5xl md:text-7xl  font-bold leading-tight">
           Hey, I'm
           <span className="text-purple-400"> Anjali</span>
         </h1>
 
-        <h2 className="text-5xl font-bold text-zinc-300">
+        <h2 className="text-3xl md:text-5xl font-bold text-zinc-300 mt-4">
           Django Backend Developer
         </h2>
 
@@ -23,7 +27,7 @@ function Hero() {
           Building scalable backend systems and modern web applications.
         </p>
 
-        <div className="mt-8 flex gap-4">
+        <div className="mt-8 flex flex-col sm:flex-row gap-4">
 
           <a
             href="#contact"
