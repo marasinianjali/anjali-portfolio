@@ -25,7 +25,7 @@ function Projects() {
   },
 ];
   return (
-    <section id="projects" className="py-32 px-10">
+    <section id="projects" className="py-10 px-10">
 
        <motion.div
         className="max-w-6xl mx-auto"

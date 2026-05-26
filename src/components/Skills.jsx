@@ -18,7 +18,7 @@ function Skills() {
   ];
 
   return (
-    <section id="skills" className="py-32 px-10">
+    <section id="skills" className="py-10 px-10">
 
       <motion.div
         className="max-w-6xl mx-auto"
