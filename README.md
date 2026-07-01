@@ -1,16 +1,52 @@
-# React + Vite
+# 🌐 Anjali Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills, experience, and software development projects.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://anjali-portfolio-pi-five.vercel.app/
 
-## React Compiler
+## 👩‍💻 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm a Backend Developer with experience building scalable web applications using Django, Django REST Framework, Flask, and React.
 
-## Expanding the ESLint configuration
+This portfolio highlights:
+- Professional experience
+- Technical skills
+- Featured projects
+- Contact information
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Responsive design
+- Modern glassmorphism UI
+- Smooth animations with Framer Motion
+- Mobile-friendly navigation
+- Project showcase
+- Experience timeline
+
+## 🛠️ Built With
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- JavaScript
+
+## 📂 Featured Projects
+
+- 🗺️ Smart Tourism Mapping System
+- 📒 Khatabook Management System
+- 📦 Inventory Prediction System
+- 🌐 Personal Portfolio Website
+
+
+## 📫 Contact
+
+- GitHub: https://github.com/marasinianjali
+- LinkedIn: https://linkedin.com/in/anjali marasini
+- Email: anumarasini391@gmail.com
+
+---
+Made with ❤️ using React & Tailwind CSS.
+⭐ If you like this project, feel free to star the repository!
