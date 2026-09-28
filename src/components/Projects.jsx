@@ -14,7 +14,7 @@ function Projects() {
     title: "Tourism GIS",
     description:
       "Interactive tourism and district mapping platform.",
-    github: "https://github.com/marasinianjali/tourism-gis",
+    github: "https://github.com/marasinianjali/smart-tourism-mapping-system",
   },
 
   {
